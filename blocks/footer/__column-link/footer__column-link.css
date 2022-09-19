@@ -1,0 +1,14 @@
+.footer__column-link {
+  color: #fff;
+  font-weight: 400;
+  font-size: 16px;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  line-height: 18px;
+}
+
+.footer__column-link img{
+  width: 16px;
+  height: 16px;
+}
